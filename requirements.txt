@@ -1,5 +1,10 @@
-streamlit
-sklearn
+streamlit==1.31.0
+starlette==0.36.3
+scikit-learn
+numpy
+pandas
+beautifulsoup4
 fuzzywuzzy
+python-Levenshtein
 distance
-bs4
+nltk
